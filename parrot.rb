@@ -4,5 +4,3 @@ def parrot(noise ="Squawk!")
   puts noise
 return parrot()
 end
-
-
